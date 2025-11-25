@@ -1,5 +1,7 @@
 # Elvion Store Analysis (Sales and Profit Analysis) 
-The sales and profit dashboard is designed to provide a clear understanding of business performance.
+The sales and profit dashboard is designed to provide a clear understanding of business performance. It contains data on orders, customers, products, sales, profit, regions, and time periods (2021–2024). The main objectives of this dashboard are:
+
+
 
 ## 🛠 The dashboard includes the following key features:
 * Key metrics showing total sales and total profit - зверху
