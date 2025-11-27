@@ -118,9 +118,11 @@ Sales peak in the fall/winter, with a low in winter/spring. This may indicate ho
 | Nov   |  $ 234,013 |
 | Dec   |  $ 241,464 |
 
-➤ **Conclusions:** Peaks occur in Nov–Dec (holiday season) and Sep (back-to-school?). Low months (Jan–Feb) are opportunities for promotions.
 
-➤ **Recommendation:** Plan inventory and marketing for Q3–Q4; analyze the causes of the March spike.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Peaks occur in Nov–Dec (holiday season) and Sep (back-to-school?). Low months (Jan–Feb) are opportunities for promotions.
+
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Plan inventory and marketing for Q3–Q4; analyze the causes of the March spike.
 
 
 
