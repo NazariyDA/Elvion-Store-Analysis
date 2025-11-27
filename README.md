@@ -1,29 +1,27 @@
-# Elvion Store Analysis (Sales and Profit Analysis) 
-The sales and profit dashboard is designed to provide a clear understanding of business performance Elvion Store. It contains data on orders, customers, products, sales, profit, regions, and time periods (2021–2024). The main objectives of this dashboard are:
+#  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/8b922d7f-d06e-4189-a9d1-739f799f3e1d" /> Elvion Store Analysis (Sales and Profit Analysis) 
+The sales and profit dashboard is designed to provide a clear understanding of business performance Elvion Store. It contains data on orders, customers, products, sales, profit, regions, and time periods (2021–2024). 
+### The main objectives of this dashboard are:
 - **Analysis of sales performance and profit:** The dashboard allows you to track total sales, profit, and their dynamics by years, months, or categories. The goal is to assess business growth, identify peak periods, and determine seasonality.
 - **Optimization of the product assortment:** With data on categories and subcategories, it is possible to analyze profitability. For example, you can identify profitable and unprofitable segments in order to adjust purchases or prices.
 -  **Regional and customer analysis:** Data by states and customers helps identify key markets and loyal buyers. The goal is to focus marketing efforts, expand presence in profitable regions, or develop loyalty programs.
 -  **Forecasting and planning:** With time-based data, you can build trends and forecast future sales or profit. This is useful for budgeting, inventory management, and identifying potential risks.
 
-## General overview
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/2e00bec0-d629-4368-9657-90e933350f74" /> General overview
 The database contains **8,314** sales records from **2021 to 2024**, with total sales amounting to **$ 1 928 888** and profit totaling **$ 247 962** . The data covers product categories (Furniture, Office Supplies, Technology), U.S. states, customers, and monthly/yearly trends.
 
-## 🛠 The dashboard includes the following key features:
-* Key metrics showing total sales and total profit - зверху
-* Profit by year chart - нижче
-* Detailed sales breakdown by category - праворуч
-* The pie chart shows the number of customers by year - зверху справа
-* The map highlights sales by state - посередині справа
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/7eb2f23e-13d4-4b4b-be1c-edef8e7c8b44" /> The dashboard includes the following key features:
+* **Key Metrics Overview:** Highlight total sales and total profit for quick performance snapshots. 
+* **Profit by Year Chart:** Visualize yearly profit trends to identify growth opportunities.  
+* **Sales Breakdown by Category:** Dive deep into sales distribution across categories. 
+* **Customer Count by Year:** Analyze customer engagement trends with a detailed pie chart.  
+* **Sales by State Map:** Understand your geographical performance with a sales heatmap.
+* **Monthly Sales Trends:** Spot performance patterns with easy-to-read monthly trends.
+* **Top 5 Customers Profits:** Identify and focus on your most valuable customers
   
-✅ Key Metrics Overview: Highlight total sales and total profit for quick performance snapshots.  
-✅ Profit by Year Chart: Visualize yearly profit trends to identify growth opportunities.  
-✅ Sales Breakdown by Category: Dive deep into sales distribution across categories.  
-✅ Customer Count by Year: Analyze customer engagement trends with a detailed pie chart.  
-✅ Sales by State Map: Understand your geographical performance with a sales heatmap.  
-✅ Monthly Sales Trends: Spot performance patterns with easy-to-read monthly trends.  
-✅ Top 5 Customers Profits: Identify and focus on your most valuable customers
+✅  
 
-## Conclusions and Recommendations Based on the Elvion Dashboard Analysis:
+
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6793dbc4-3d2d-4088-bf15-df94174bfd8f" /> Conclusions and Recommendations Based on the Elvion Dashboard Analysis:
 * ### Annual Trends
   Sales and profit increased from 2021 to 2023, with a slight decline in 2024 (possibly due to incomplete data). Profit per unit sold improved, indicating better efficiency.
 
