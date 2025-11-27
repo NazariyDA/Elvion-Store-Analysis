@@ -29,10 +29,10 @@ The database contains **8,314** sales records from **2021 to 2024**, with total 
 
 | Year | Sales       | Profit      | Profit Change (YoY)        |
 |------|------------|------------|---------------------------|
-| 2021 | 483,966.19 | 49,556.57  | -                         |
-| 2022 | 470,532.46 | 61,618.69  | +24%                      |
-| 2023 | 609,094.76 | 81,786.94  | +33%                      |
-| 2024 | 365,294.45 | 54,999.32  | -33% (incomplete year?)   |
+| 2021 |  $ 483,966 |  $ 49,556  | -                         |
+| 2022 |  $ 470,532 |  $ 61,618  | +24%                      |
+| 2023 |  $ 609,094 |  $ 81,786  | +33%                      |
+| 2024 |  $ 365,294 |  $ 54,999  | -33% (incomplete year?)   |
 
 
 ➤ **Conclusions:** 2023 was the best year (with a 29% increase in sales). The decline in 2024 may be seasonal or require data verification.
@@ -44,20 +44,20 @@ The database contains **8,314** sales records from **2021 to 2024**, with total 
 
 | Category        | Sales      | Profit     | Profitability (%) |
 | --------------- | ---------- | ---------- | ----------------- |
-| Technology      | 704,452.15 | 121,861.73 | 17.3              |
-| Office Supplies | 602,093.61 | 108,211.12 | 18.0              |
-| Furniture       | 622,342.10 | 17,888.67  | 2.9               |
+| Technology      |  $ 704,452 |  $ 121,861 | 17.3              |
+| Office Supplies |  $ 602,093 |  $ 108,211 | 18.0              |
+| Furniture       |  $ 622,342 |  $ 17,888  | 2.9               |
 
 
   Top 5 subcategories by sales (with profit):
 
   | Subcategory | Sales      | Profit     |
 | ----------- | ---------- | ---------- |
-| Phones      | 279,464.42 | 37,562.80  |
-| Chairs      | 277,058.98 | 21,710.82  |
-| Storage     | 190,679.61 | 17,478.42  |
-| Binders     | 169,089.73 | 30,231.20  |
-| Tables      | 167,672.76 | -12,327.06 |
+| Phones      |  $ 279,464 |  $ 37,562  |
+| Chairs      |  $ 277,058 |  $ 21,710  |
+| Storage     |  $ 190,679 |  $ 17,478  |
+| Binders     |  $ 169,089 |  $ 30,231  |
+| Tables      |  $ 167,672 |  $ -12,327 |
 
 ➤ **Conclusions:** Strengths: Copiers (sales 118,968; profit 43,622 — profitability 37%) and Accessories — high profit with low risk.
 Issues: Tables and Bookcases are unprofitable (-12k and -2.4k profit).
@@ -72,16 +72,16 @@ Subcategories Supplies and Fasteners — low sales but stable profit.
 
 | State        | Sales      |
 | ------------ | ---------- |
-| California   | 390,145.54 |
-| New York     | 246,517.74 |
-| Texas        | 151,436.60 |
-| Washington   | 117,661.47 |
-| Pennsylvania | 95,494.86  |
-| Florida      | 79,303.61  |
-| Illinois     | 68,565.03  |
-| Virginia     | 67,825.95  |
-| Michigan     | 66,559.09  |
-| Ohio         | 66,407.17  |
+| California   |  $ 390,145 |
+| New York     |  $ 246,517 |
+| Texas        |  $ 151,436 |
+| Washington   |  $ 117,661 |
+| Pennsylvania |  $ 95,494  |
+| Florida      |  $ 79,303  |
+| Illinois     |  $ 68,565  |
+| Virginia     |  $ 67,825  |
+| Michigan     |  $ 66,559  |
+| Ohio         |  $ 66,407  |
 
 ➤ **Conclusions:** The West Coast (CA, WA) is a key market (over 500k in sales). States with low sales (e.g., Maine — 1.2k) may be underutilized.
 
@@ -92,11 +92,11 @@ The top 5 customers generate ~10% of total profit, indicating a reliance on key 
 
 | Customer      | Profit   |
 | ------------- | -------- |
-| Tamara Chand  | 8,981.32 |
-| Raymond Buch  | 6,939.17 |
-| Sanjit Chand  | 5,757.42 |
-| Adrian Barton | 5,202.84 |
-| Martinez      | 3,883.09 |
+| Tamara Chand  |  $ 8,981 |
+| Raymond Buch  |  $ 6,939 |
+| Sanjit Chand  |  $ 5,757 |
+| Adrian Barton |  $ 5,202 |
+| Martinez      |  $ 3,883 |
 
 ➤ **Conclusions:** These customers are loyal and likely place large orders (e.g., Tamara Chand — possibly a corporate client).
 
@@ -107,18 +107,18 @@ Sales peak in the fall/winter, with a low in winter/spring. This may indicate ho
 
 | Month | Sales      |
 | ----- | ---------- |
-| Jan   | 94,924.87  |
-| Feb   | 59,640.16  |
-| Mar   | 205,005.51 |
-| Apr   | 137,480.79 |
-| May   | 155,028.83 |
-| Jun   | 152,718.72 |
-| Jul   | 147,238.11 |
-| Aug   | 159,043.99 |
-| Sep   | 219,783.30 |
-| Oct   | 122,546.07 |
-| Nov   | 234,013.28 |
-| Dec   | 241,464.23 |
+| Jan   |  $ 94,924  |
+| Feb   |  $ 59,640  |
+| Mar   |  $ 205,005 |
+| Apr   |  $ 137,480 |
+| May   |  $ 155,028 |
+| Jun   |  $ 152,718 |
+| Jul   |  $ 147,238 |
+| Aug   |  $ 159,043 |
+| Sep   |  $ 219,783 |
+| Oct   |  $ 122,546 |
+| Nov   |  $ 234,013 |
+| Dec   |  $ 241,464 |
 
 ➤ **Conclusions:** Peaks occur in Nov–Dec (holiday season) and Sep (back-to-school?). Low months (Jan–Feb) are opportunities for promotions.
 
