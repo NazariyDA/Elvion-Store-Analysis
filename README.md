@@ -1,7 +1,7 @@
 #  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/8b922d7f-d06e-4189-a9d1-739f799f3e1d" /> Elvion Store Analysis (Sales and Profit Analysis) 
 The sales and profit dashboard is designed to provide a clear understanding of business performance Elvion Store. It contains data on orders, customers, products, sales, profit, regions, and time periods (2021–2024). 
 
-:pushpin: Data source and Interactive Dashboard:
+:pushpin: Data source and Interactive Dashboard: [Elvion Store Analysis](./Elvion%20Store%20Analysis.xlsx)
 
 ### The main objectives of this dashboard are:
 - **Analysis of sales performance and profit:** The dashboard allows you to track total sales, profit, and their dynamics by years, months, or categories. The goal is to assess business growth, identify peak periods, and determine seasonality.
