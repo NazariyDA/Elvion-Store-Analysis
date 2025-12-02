@@ -27,7 +27,7 @@ The database contains **8,314** sales records from **2021 to 2024**, with total 
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6793dbc4-3d2d-4088-bf15-df94174bfd8f" /> Conclusions and Recommendations Based on the Elvion Dashboard Analysis:
 * ### Annual Trends
-  Sales and profit increased from 2021 to 2023, with a slight decline in 2024 (possibly due to incomplete data). Profit per unit sold improved, indicating better efficiency.
+Sales and profit increased from 2021 to 2023, with a slight decline in 2024 (possibly due to incomplete data). Profit per unit sold improved, indicating better efficiency.
 
 | Year | Sales       | Profit      | Profit Change (YoY)        |
 |------|------------|------------|---------------------------|
@@ -42,7 +42,7 @@ The database contains **8,314** sales records from **2021 to 2024**, with total 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Analyze the growth factors of 2023 (e.g., marketing efforts or new products).
 
 * ### Analysis by Categories and Subcategories
-  **The Technology category** leads in profit (17% of sales generates 49% of profit). **Office Supplie**s is stable, but **Furniture** has profitability issues.
+**The Technology category** leads in profit (17% of sales generates 49% of profit). **Office Supplie**s is stable, but **Furniture** has profitability issues.
 
 | Category        | Sales      | Profit     | Profitability (%) |
 | --------------- | ---------- | ---------- | ----------------- |
@@ -51,7 +51,7 @@ The database contains **8,314** sales records from **2021 to 2024**, with total 
 | Furniture       |  $ 622,342 |  $ 17,888  | 2.9               |
 
 
-  Top 5 subcategories by sales (with profit):
+Top 5 subcategories by sales (with profit):
 
   | Subcategory | Sales      | Profit     |
 | ----------- | ---------- | ---------- |
@@ -70,7 +70,7 @@ Issues: Tables and Bookcases are unprofitable (-12k and -2.4k profit).
 Subcategories Supplies and Fasteners — low sales but stable profit.
 
 * ### Sales by States
-  The top 10 states generate ~80% of sales. California is the leader, but Eastern states (New York, Pennsylvania) are also strong.
+The top 10 states generate ~80% of sales. California is the leader, but Eastern states (New York, Pennsylvania) are also strong.
 
 | State        | Sales      |
 | ------------ | ---------- |
