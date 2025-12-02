@@ -18,6 +18,7 @@ The database contains **8,314** sales records from **2021 to 2024**, with total 
 * **Monthly Sales Trends:** Spot performance patterns with easy-to-read monthly trends.
 * **Top 5 Customers Profits:** Identify and focus on your most valuable customers
 
+<img width="1224" height="644" alt="image" src="https://github.com/user-attachments/assets/8c44fa02-07d9-4049-9462-91a6dc4e51b1" />
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6793dbc4-3d2d-4088-bf15-df94174bfd8f" /> Conclusions and Recommendations Based on the Elvion Dashboard Analysis:
 * ### Annual Trends
