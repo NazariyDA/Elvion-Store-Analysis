@@ -17,8 +17,6 @@ The database contains **8,314** sales records from **2021 to 2024**, with total 
 * **Sales by State Map:** Understand your geographical performance with a sales heatmap.
 * **Monthly Sales Trends:** Spot performance patterns with easy-to-read monthly trends.
 * **Top 5 Customers Profits:** Identify and focus on your most valuable customers
-  
-✅  
 
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6793dbc4-3d2d-4088-bf15-df94174bfd8f" /> Conclusions and Recommendations Based on the Elvion Dashboard Analysis:
@@ -33,9 +31,9 @@ The database contains **8,314** sales records from **2021 to 2024**, with total 
 | 2024 |  $ 365,294 |  $ 54,999  | -33% (incomplete year?)   |
 
 
-➤ **Conclusions:** 2023 was the best year (with a 29% increase in sales). The decline in 2024 may be seasonal or require data verification.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** 2023 was the best year (with a 29% increase in sales). The decline in 2024 may be seasonal or require data verification.
 
-➤ **Recommendation:** Analyze the growth factors of 2023 (e.g., marketing efforts or new products).
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Analyze the growth factors of 2023 (e.g., marketing efforts or new products).
 
 * ### Analysis by Categories and Subcategories
   **The Technology category** leads in profit (17% of sales generates 49% of profit). **Office Supplie**s is stable, but **Furniture** has profitability issues.
@@ -57,10 +55,10 @@ The database contains **8,314** sales records from **2021 to 2024**, with total 
 | Binders     |  $ 169,089 |  $ 30,231  |
 | Tables      |  $ 167,672 |  $ -12,327 |
 
-➤ **Conclusions:** Strengths: Copiers (sales 118,968; profit 43,622 — profitability 37%) and Accessories — high profit with low risk.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** Strengths: Copiers (sales 118,968; profit 43,622 — profitability 37%) and Accessories — high profit with low risk.
 Issues: Tables and Bookcases are unprofitable (-12k and -2.4k profit).
 
-➤ **Recommendation:** Review suppliers or prices for Furniture; Invest in Technology for scaling (especially Copiers/Phones) — high ROI. Avoid unprofitable subcategories in Furniture.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Review suppliers or prices for Furniture; Invest in Technology for scaling (especially Copiers/Phones) — high ROI. Avoid unprofitable subcategories in Furniture.
 
 
 Subcategories Supplies and Fasteners — low sales but stable profit.
@@ -81,9 +79,9 @@ Subcategories Supplies and Fasteners — low sales but stable profit.
 | Michigan     |  $ 66,559  |
 | Ohio         |  $ 66,407  |
 
-➤ **Conclusions:** The West Coast (CA, WA) is a key market (over 500k in sales). States with low sales (e.g., Maine — 1.2k) may be underutilized.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** The West Coast (CA, WA) is a key market (over 500k in sales). States with low sales (e.g., Maine — 1.2k) may be underutilized.
 
-➤ **Recommendation:** Expand marketing in top-performing states; investigate the reasons for low sales in underperforming regions (e.g., Arizona or Colorado).
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Expand marketing in top-performing states; investigate the reasons for low sales in underperforming regions (e.g., Arizona or Colorado).
 
 * ### Top Customers by Profit
 The top 5 customers generate ~10% of total profit, indicating a reliance on key buyers.
@@ -96,9 +94,9 @@ The top 5 customers generate ~10% of total profit, indicating a reliance on key 
 | Adrian Barton |  $ 5,202 |
 | Martinez      |  $ 3,883 |
 
-➤ **Conclusions:** These customers are loyal and likely place large orders (e.g., Tamara Chand — possibly a corporate client).
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/48c4ff08-2a9d-4d3c-9718-eee6f10e87a1" /> **Conclusions:** These customers are loyal and likely place large orders (e.g., Tamara Chand — possibly a corporate client).
 
-➤ **Recommendation:** Implement loyalty programs for top customers; diversify the customer base to reduce risks.
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/f35489d1-c8a5-4471-9b95-d5fb263625ac" /> **Recommendation:** Implement loyalty programs for top customers; diversify the customer base to reduce risks.
 
 * ###  Monthly Trends (Seasonality)
 Sales peak in the fall/winter, with a low in winter/spring. This may indicate holiday seasons or budget cycles.
