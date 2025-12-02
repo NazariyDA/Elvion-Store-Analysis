@@ -3,6 +3,8 @@ The sales and profit dashboard is designed to provide a clear understanding of b
 
 :pushpin: Data source and Interactive Dashboard: [Elvion Store Analysis](./Elvion%20Store%20Analysis.xlsx)
 
+🧩 Used technologies: **MS Excel** with **Power Pivot** (data cleaning and transformation) 
+
 ### The main objectives of this dashboard are:
 - **Analysis of sales performance and profit:** The dashboard allows you to track total sales, profit, and their dynamics by years, months, or categories. The goal is to assess business growth, identify peak periods, and determine seasonality.
 - **Optimization of the product assortment:** With data on categories and subcategories, it is possible to analyze profitability. For example, you can identify profitable and unprofitable segments in order to adjust purchases or prices.
